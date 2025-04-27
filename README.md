@@ -18,7 +18,7 @@ The goal is to visualize important hospital KPIs and help hospital administrator
 - Hospital Revenue Insights
 
 ## 🖼️ Dashboard Preview
-![Hospital Dashboard](C:/Users/kashif-pc/Pictures/Screenshot%202025-04-27%20093718.png
+
 
 ## 🛠️ Tools and Technologies
 - **Power BI** (for Data Modeling and Visualization)
